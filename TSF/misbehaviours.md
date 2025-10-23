@@ -54,11 +54,6 @@ This report lists known misbehaviours or bugs of v3.12.0 of the nlohmann/json re
 - **State:** OPEN
 - **Created At:** 2025-04-01T14:14:30Z
 
-### [#4621](https://github.com/nlohmann/json/issues/4621)
-- **Title:** nlohman::ordered_json using deprecated operators on calls to .value and .at with join_pointers
-- **State:** OPEN
-- **Created At:** 2025-01-23T20:03:18Z
-
 ### [#4552](https://github.com/nlohmann/json/issues/4552)
 - **Title:** UTF-8 invalid characters are not always ignored when dumping with error_handler_t::ignore
 - **State:** OPEN
